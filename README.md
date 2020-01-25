@@ -1,4 +1,4 @@
-# bbasulto-stat697-hello-world
+# hello-world
 Week 1 Setup Step 2
 
 Hello STAT 697-01. My name is Becky, and I’m a MS Biostatistics learner. The three expectations I have for this class are as follows:
